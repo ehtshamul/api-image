@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Monstera Deliciosa",
+    "category": "Indoor Plants",
+    "description": "Beautiful split‑leaf houseplant perfect for bright, indirect light.",
+    "price": 45.99,
+    "image": "https://pixabay.com/photos/monstera-deliciosa-flora-nature-8426717/",
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Fiddle Leaf Fig",
+    "category": "Indoor Plants",
+    "description": "Statement plant with large, glossy leaves that thrive in bright light.",
+    "price": 65.99,
+    "image": "https://pixabay.com/photos/leaf-green-fiddle-leaf-fig-nature-5223860/",
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Snake Plant",
+    "category": "Indoor Plants",
+    "description": "Low‑maintenance plant perfect for beginners and low‑light spaces.",
+    "price": 29.99,
+    "image": "https://pixabay.com/photos/snake-plant-plant-indoor-easy-care-12345/",
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "name": "Jade Plant",
+    "category": "Succulents",
+    "description": "Easy‑care succulent with thick, fleshy leaves and good luck symbolism.",
+    "price": 19.99,
+    "image": "https://pixabay.com/photos/jade-plant-succulent-green-easy-care-23456/",
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Aloe Vera",
+    "category": "Succulents",
+    "description": "Medicinal succulent with healing properties and minimal water needs.",
+    "price": 24.99,
+    "image": "https://pixabay.com/photos/aloe-vera-succulent-plant-green-34567/",
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "name": "Echeveria Rosette",
+    "category": "Succulents",
+    "description": "Stunning rosette‑shaped succulent with colorful, thick leaves.",
+    "price": 16.99,
+    "image": "https://pixabay.com/photos/echeveria-rosette-succulent-plant-45678/",
+    "inStock": true
+  },
+  {
+    "id": 7,
+    "name": "Peace Lily",
+    "category": "Flowering Plants",
+    "description": "Elegant flowering plant with white blooms and air‑purifying qualities.",
+    "price": 38.99,
+    "image": "https://pixabay.com/photos/peace-lily-plant-flower-white-56789/",
+    "inStock": true
+  },
+  {
+    "id": 8,
+    "name": "Orchid",
+    "category": "Flowering Plants",
+    "description": "Exotic flowering plant with delicate, long‑lasting blooms.",
+    "price": 52.99,
+    "image": "https://pixabay.com/photos/orchid-flower-indoor-purple-67890/",
+    "inStock": true
+  },
+  {
+    "id": 9,
+    "name": "ZZ Plant",
+    "category": "Indoor Plants",
+    "description": "Tough, glossy‑leaved plant that tolerates low light and irregular watering.",
+    "price": 32.99,
+    "image": "https://pixabay.com/photos/zz-plant-indoor-hardy-drought-tolerant-78901/",
+    "inStock": true
+  },
+  {
+    "id": 10,
+    "name": "Rubber Plant",
+    "category": "Indoor Plants",
+    "description": "Large, shiny foliage and adaptable to various light conditions.",
+    "price": 59.99,
+    "image": "https://pixabay.com/photos/rubber-plant-ficus-plant-indoor-89012/",
+    "inStock": true
+  },
+  {
+    "id": 11,
+    "name": "Philodendron Brasil",
+    "category": "Indoor Plants",
+    "description": "Variegated vining philodendron with green and yellow leaves.",
+    "price": 27.99,
+    "image": "https://pixabay.com/photos/philodendron-brasil-indoor-vining-90123/",
+    "inStock": true
+  },
+  {
+    "id": 12,
+    "name": "Boston Fern",
+    "category": "Indoor Plants",
+    "description": "Lush fern with fronds that thrive in indirect light and high humidity.",
+    "price": 34.99,
+    "image": "https://pixabay.com/photos/boston-fern-houseplant-botany-01234/",
+    "inStock": true
+  },
+  {
+    "id": 13,
+    "name": "Spider Plant",
+    "category": "Indoor Plants",
+    "description": "Air‑purifying plant with arching leaves and baby plantlets.",
+    "price": 22.99,
+    "image": "https://pixabay.com/photos/spider-plant-chlorophytum-indoor-12356/",
+    "inStock": true
+  },
+  {
+    "id": 14,
+    "name": "Rubber Fig",
+    "category": "Indoor Plants",
+    "description": "Elegant and hardy Ficus décor plant with broad leaves.",
+    "price": 49.99,
+    "image": "https://pixabay.com/photos/ficus-rubber-tree-indoor-plant-23467/",
+    "inStock": true
+  },
+  {
+    "id": 15,
+    "name": "Calathea Medallion",
+    "category": "Indoor Plants",
+    "description": "Decorative foliage with bold green and purple pattern.",
+    "price": 42.99,
+    "image": "https://pixabay.com/photos/calathea-medallion-houseplant-34578/",
+    "inStock": true
+  },
+  {
+    "id": 16,
+    "name": "Kalanchoe",
+    "category": "Flowering Plants",
+    "description": "Compact flowering succulent with long‑lasting blooms.",
+    "price": 21.99,
+    "image": "https://pixabay.com/photos/kalanchoe-flower-succulent-plant-45689/",
+    "inStock": true
+  },
+  {
+    "id": 17,
+    "name": "Begonia Rex",
+    "category": "Flowering Plants",
+    "description": "Bright foliage with colorful patterns and seasonal blooms.",
+    "price": 37.99,
+    "image": "https://pixabay.com/photos/begonia-rex-colorful-houseplant-56790/",
+    "inStock": true
+  },
+  {
+    "id": 18,
+    "name": "Hoya Carnosa",
+    "category": "Flowering Plants",
+    "description": "Wax plant vine with clusters of fragrant star-shaped flowers.",
+    "price": 45.99,
+    "image": "https://pixabay.com/photos/hoya-carnosa-wax-plant-indoor-67891/",
+    "inStock": true
+  },
+  {
+    "id": 19,
+    "name": "String of Pearls",
+    "category": "Succulents",
+    "description": "Trailing succulent with bead‑like leaves perfect for hanging baskets.",
+    "price": 23.99,
+    "image": "https://pixabay.com/photos/string-of-pearls-succulent-silver-78902/",
+    "inStock": true
+  },
+  {
+    "id": 20,
+    "name": "Lithops",
+    "category": "Succulents",
+    "description": "Living stone plants that mimic rocks and need minimal watering.",
+    "price": 14.99,
+    "image": "https://pixabay.com/photos/lithops-stone-plant-succulent-89023/",
+    "inStock": true
+  }
+]
