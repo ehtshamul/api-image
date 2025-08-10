@@ -1,0 +1,23 @@
+[
+  {
+    "postId": 1,
+    "id": 1,
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "body": "Great post! Thanks for sharing."
+  },
+  {
+    "postId": 1,
+    "id": 2,
+    "name": "John Smith",
+    "email": "john.smith@example.com",
+    "body": "I learned a lot from this article."
+  },
+  {
+    "postId": 2,
+    "id": 3,
+    "name": "Emily Clark",
+    "email": "emily.clark@example.com",
+    "body": "Interesting perspective!"
+  }
+]
