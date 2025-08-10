@@ -1,0 +1,20 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "My First Post",
+    "body": "This is the body content of the first post."
+  },
+  {
+    "userId": 2,
+    "id": 2,
+    "title": "Another Post",
+    "body": "Here's some more content in the second post."
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Alice's Thoughts",
+    "body": "Alice shares her thoughts here."
+  }
+]
